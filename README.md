@@ -1,7 +1,7 @@
                                                         Hello 👋, I'm Fayiz kk
                                                  A passionate React developer from India
-                                                 portfolio : https://fayizkk-portfolio.vercel.app/
-- 👋 Hi, I’m fayizkk , portfolio : https://fayizkk-portfolio.vercel.app/
+                                                 
+- 👋 portfolio : https://fayizkk-portfolio.vercel.app/
 - 👀 I’m currently learning Latest web dev trends, MERN advancements ...
 - 🌱  I’m looking to collaborate on Web development using MERN stack....
 - 💞️ I’m looking for help with MERN stack challenges, debugging, and optimization. ...
